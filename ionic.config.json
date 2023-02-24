@@ -1,0 +1,8 @@
+{
+  "name": "Wiki Realms",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "24ed9408"
+}
